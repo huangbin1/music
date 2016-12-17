@@ -29,7 +29,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 基于vue.js的音乐播放器 
 git add ./ 
-git commit -m "shabi"
+git commit -m "日志内容"
 git push 
 
 git status
