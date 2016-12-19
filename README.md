@@ -28,10 +28,14 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 
 基于vue.js的音乐播放器 
-git add ./ 
+git add ./    
 git commit -m "日志内容"
 git push 
 
 git status
 
 git pull
+
+代码主入口 main.js 所以引入miniui在main.js中写
+
+index.html中要加meta指定是手机网页
